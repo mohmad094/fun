@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     yesButton.addEventListener('click', () => {
         message.classList.remove('hidden');
         h1.classList.add("hidden");
-        message.textContent = 'Happy Birthday Sabiha!!!!<br> May GOB Bless You<i class="fa-regular fa-face-smile"></i>';
+        message.textContent = 'Happy Birthday Sabiha!!!!🥳🥳🥳    May GOB Bless You😍😍😍';
     });
 
     noButton.addEventListener('click', () => {
